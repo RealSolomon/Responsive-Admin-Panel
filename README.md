@@ -2,7 +2,7 @@
 
 
 ### Live DEMO
-See [Demo](responsive-admin-panel.vercel.app/).
+See [Demo](responsive-admin-panel.vercel.app).
 
 
 ![alt text](screenshots/dem.jpg "ScreenShot")
